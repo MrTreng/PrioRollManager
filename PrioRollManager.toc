@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: PrioRollManager
+## Author: Treng
+## Version: 1.0.0
+## SavedVariables: PRM_DISPLAYED_ITEMS, PRM_BLACKLIST, PRM_SETTINGS
+
+MiniWindow.lua
+PrioRollManager.lua
